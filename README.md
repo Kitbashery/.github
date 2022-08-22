@@ -1,3 +1,3 @@
 # .github
 
-This is a sepcial repo for Kitbashery's organization profile page.
+This is a special repo for Kitbashery's organization profile page.
