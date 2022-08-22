@@ -2,6 +2,8 @@
 
 Kitbashery creates and maintains a collection of professionally developed and maintained game assets for Unity as a freemium service.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S8EKDY5)
+
 ## Why Freemium?
 
 <b>After years of working in Unity with thousands of dollars invested in the Unity Asset Store both as a publisher and consumer I found that:</b>
@@ -31,5 +33,3 @@ Kitbashery creates and maintains a collection of professionally developed and ma
 Assets download from the Unity Asset Store will be automatically added to Unity's package manager.
 
 When downloading from sources other than the Asset Store you will receive a .unitypackage file can be dragged into your project files and imported manually. Packages can also be imported into the package manager via its github address so updates can be tracked.
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S8EKDY5)
