@@ -31,3 +31,5 @@ Kitbashery creates and maintains a collection of professionally developed and ma
 Assets download from the Unity Asset Store will be automatically added to Unity's package manager.
 
 When downloading from sources other than the Asset Store you will receive a .unitypackage file can be dragged into your project files and imported manually. Packages can also be imported into the package manager via its github address so updates can be tracked.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S8EKDY5)
