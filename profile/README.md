@@ -1,4 +1,4 @@
-# Kitbashery
+![](https://kitbashery.com/assets/images/kitbashery-github-banner.jpg)
 
 Kitbashery creates and maintains a collection of professionally developed and maintained game assets for Unity as a freemium service.
 
