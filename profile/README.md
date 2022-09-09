@@ -58,7 +58,7 @@ Kitbashery offers membership plans for priority support, feature requests and co
 <p>
 All code contributions are subject to the following requirements:
 
-All C# code must be up to Microsoft's C# Coding Conventions. In the past Unity used conventions like using m_variableName and such practices can still be found in legacy code. However going forward Microsoft's conventions are now the standard.
+All C# code must be up to Microsoft's [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions). In the past Unity used conventions like using m_variableName and such practices can still be found in legacy code. However going forward Microsoft's conventions are now the standard.
 
 In addition to the C# coding standards there is a prefered comment and region structure to follow.
 
@@ -80,7 +80,10 @@ Sometimes when there is a private field/method that isn't very well named it is 
 
 Additionally over any public property field that will be displayed in Unity's inspector window include:
 
+```csharp 
 [ToolTip("Your tooltip text")]
+```
+
 Sometimes with very obviouslty named fields that are self explanitory it isn't necessary to add a tooltip attribute, but in most cases it is prefered.
 
 In some cases it is prefered to be more strict than Microsoft's conventions such as var is rarely if ever used, instead a known type should be used. Additionally when checking if statements == true/false is always used instead of if(variableName) These two practices are done to reduce ambiguity.
