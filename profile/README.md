@@ -19,7 +19,7 @@ in the Unity Asset Store both as a publisher and consumer I found that:</b>
 </details>
 
 <details>
-<summary>Kitbashery makes sure that:</summary>
+<summary>Benefits of freemium:</summary>
 <pre>
 
 * Assets are free of an initial charge. No more paying for expensive broken assets you can't refund.
