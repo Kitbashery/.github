@@ -6,9 +6,8 @@
 To commission an asset send an email to kitbashery@gmail.com with your prompt then place an order via [GitHub Sponsors](https://github.com/sponsors/Kitbashery) the asset will be open-sourced once completed.
 </p>
 
-## Installation Options:
-<details open>
-<summary>Options:</summary>
+<details closed>
+<summary>Installation Options:</summary>
 <pre>
 
 1. Install an immutable package via openUPM (click the badge on the asset's GitHub repo).
