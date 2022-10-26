@@ -15,8 +15,9 @@ To commission an asset send an email to kitbashery@gmail.com with your prompt th
 3. Legacy versions can be found in the asset's GitHub repository's Releases tab.
 4. Copy the asset's GitHub repository's Clone HTTPS URL and paste it into the package manager.
 
-<b>Note:</b> demo scenes need to be installed seperately after importing a package into your project. To install a sample navigate to: 
-<b>Package Manager > In Project > Asset Name > Samples > Install.</b>
+<b>Installing demo scenes:</b>
+
+![](https://kitbashery.com/assets/images/kitbashery-demo-scene-installation.jpg)
 
 </pre>
 </details>
