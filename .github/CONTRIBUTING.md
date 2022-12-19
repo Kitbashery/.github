@@ -44,7 +44,7 @@ Explictly declared property fields:
    [field: SerializeField, Tooltip("Your tooltip text.")]
    public bool myVariable { get; set; } = false;
   ```
-  This is typically done to expose an property to Unity's event system without adding additional boilerplate code. However note that the property name will appear in camelCase both in the inspector (Unity 2021+ only) and when referenced in code.
+  This is typically done to expose an property to Unity's event system without adding additional boilerplate code. However note that the property name will appear in camelCase both in the inspector (Unity 2021+) and when referenced in code.
 
   --- 
 After putting in a pull request it is helpful (but not necessary) to also document them by putting in a pull request to The documentation repo and update the docs. Doing so however does not mean your additions/changes will be accepted so it may be best to add docs after your changes have been merged or let an official developer document the changes.
