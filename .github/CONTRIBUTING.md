@@ -62,6 +62,8 @@ In some cases it is prefered to be more strict than Microsoft's conventions such
 
 ### Documentation:
 After putting in a pull request it is helpful (but not necessary) to also document them by putting in a pull request to The documentation repo and update the docs. Doing so however does not mean your additions/changes will be accepted so it may be best to add docs after your changes have been merged or let an official developer document the changes.
+  
+Here is a link to Kitbashery's internal tool to aid in generating documentation: https://github.com/Kitbashery/Unity-Markdown-Generator
 
 ---
   
