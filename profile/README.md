@@ -5,7 +5,7 @@
 </p>
 
 #### Check out our latest asset:
-[![Smart GameObjects](https://kitbashery.com/assets/images/smart-gameobjects-uas-sale.jpg)](https://assetstore.unity.com/packages/slug/248930?aid=1100lvf66)
+[![Smart GameObjects](https://kitbashery.com/assets/images/smart-gameobjects-uas-sale.jpg)](https://assetstore.unity.com/packages/tools/visual-scripting/smart-gameobjects-248930?aid=1100lvf66)
 
 <details closed>
 <summary>Installation Options:</summary>
